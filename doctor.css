@@ -1,0 +1,699 @@
+.main{
+    height: 1800px;
+    width: 1300px;
+    position: relative;
+    left: 100px;
+    right: 100px;
+}
+ul,li{
+    text-decoration-style: none;
+    display: inline;
+    justify-content: space-between;
+    padding: 20px;
+}
+.space{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.df{
+    display: flex;
+    margin-left: 200px;
+}
+.word1{
+    color: skyblue;
+    font-size: xx-large;
+}
+.word2{
+   color: rgb(7, 7, 93);
+   font-size: xx-large;
+} 
+.sky{
+    color: skyblue;
+}
+.part1{
+    height: 250px;
+    width: 1300px;
+    /* position: absolute; */
+    background-color: rgb(151, 216, 242);
+}
+.word3{
+    position: absolute;
+    left: 100px;
+    top: 30px;
+}
+.word4{
+    position: absolute;
+    left: 100px;
+    top: 50px;
+    color: rgb(31, 130, 169);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.lbl{
+    background-color: rgb(4, 4, 90);
+    border-radius: 40px;
+    width: 150px;
+    height: 30px;
+    position: absolute;
+    left: 100px;
+    top: 170px;
+}
+.word5{
+    color: white;
+    position: absolute;
+    top: -10px;
+    left: 30px;
+}
+.word6{
+    color: skyblue;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 260px;
+    left: 500px;
+}
+.doc1{
+    height: 350px;
+    width: 400px;
+    position: absolute;
+    top: 400px;
+    left: 250px;
+}
+.docu1{
+    color: skyblue;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 40px;
+}
+.part2{
+    height: 350px;
+    width: 400px;
+    position: absolute;
+    top: 400px;
+    left: 670px;
+}
+.label{
+    background-color: rgb(37, 37, 223);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    position: absolute;
+}
+.word7{
+    color: white;
+    position: absolute;
+    top: -10px;
+    left: 30px;
+}
+.doc2{
+    height: 330px;
+    width: 380px;
+    position: absolute;
+    top: 750px;
+    left: 670px;
+}
+.docu2{
+    color: skyblue;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 40px;
+}
+.part3{
+    height: 350px;
+    width: 400px;
+    position: absolute;
+    top: 750px;
+    left: 250px;
+}
+.label1{
+    background-color: rgb(37, 37, 223);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    position: absolute;
+}
+.word8{
+    color: white;
+    position: absolute;
+    top: -10px;
+    left: 30px;
+}
+.doc3{
+    height: 350px;
+    width: 400px;
+    position: absolute;
+    top: 1100px;
+    left: 250px;
+}
+.docu3{
+    color: skyblue;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 40px;
+}
+.part4{
+    height: 350px;
+    width: 400px;
+    position: absolute;
+    top: 1100px;
+    left: 670px;
+}
+.label2{
+    background-color: rgb(37, 37, 223);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    position: absolute;
+}
+.word9{
+    color: white;
+    position: absolute;
+    top: -10px;
+    left: 30px;
+}
+.doc4{
+    height: 330px;
+    width: 380px;
+    position: absolute;
+    top: 1450px;
+    left: 670px;
+}
+.docu4{
+    color: skyblue;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 40px;
+}
+.part5{
+    height: 350px;
+    width: 400px;
+    position: absolute;
+    top: 1450px;
+    left: 250px;
+}
+.label3{
+    background-color: rgb(37, 37, 223);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    position: absolute;
+}
+.word10{
+    color: white;
+    position: absolute;
+    top: -10px;
+    left: 30px;
+}
+.space1{
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.word11{
+    color: skyblue;
+    font-size: xx-large;
+}
+.word12{
+   color: rgb(7, 7, 93);
+   font-size: xx-large;
+} 
+.sky1{
+    color: skyblue;
+}
+.content{
+    height: 120px;
+    width: 1300px;
+    position: relative;
+    top: 10px;
+    left: 100px;
+    background-color: rgb(177, 225, 245);
+}
+.word13{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(7, 112, 154);
+    padding-top: 40px;
+    padding-left: 200px;
+}
+.doc5{
+    height: 350px;
+    width: 400px;
+    position: absolute;
+    top: 2300px;
+    left: 350px;
+}
+.docu5{
+    color: skyblue;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top: 70px;
+}
+.part6{
+    height: 350px;
+    width: 450px;
+    position: absolute;
+    top: 2300px;
+    left: 770px;
+}
+.label4{
+    background-color: rgb(37, 37, 223);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    position: absolute;
+}
+.word14{
+    color: white;
+    position: absolute;
+    top: -10px;
+    left: 30px;
+}
+.num{
+    color: skyblue;
+}
+.num2{
+    position: relative;
+    top: 430px;
+    left: 700px;
+}
+.con{
+    
+    
+}
+.img1{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 445px;
+    left: 700px;
+}
+.img2{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 440px;
+    left: -45px;
+}
+.font{
+    position: relative;
+    top: 430px;
+    left: -30px;
+}
+.box1{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    position: relative;
+    height: 40px;
+    width: 125px;
+    background-color: rgb(70, 201, 253);
+    top: 450px;
+    left: -40px;
+}
+.box2{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    position: relative;
+    height: 40px;
+    width: 100px;
+    background-color: rgb(70, 201, 253);
+    top: 450px;
+    left: -30px;
+}
+.box3{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    position: relative;
+    height: 40px;
+    width: 160px;
+    background-color: rgb(70, 201, 253);
+    top: 450px;
+    left: -20px;
+}
+.box4{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    position: relative;
+    height: 40px;
+    width: 140px;
+    background-color: rgb(70, 201, 253);
+    top: 470px;
+    left: -40px;
+}
+.box5{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    position: relative;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(70, 201, 253);
+    top: 470px;
+    left: -30px;
+}
+.box6{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    position: relative;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(70, 201, 253);
+    top: 470px;
+    left: -20px;
+}
+.box7{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    position: relative;
+    height: 40px;
+    width: 125px;
+    background-color: rgb(70, 201, 253);
+    top: 490px;
+    left: -40px;
+}
+.box8{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    position: relative;
+    height: 40px;
+    width: 140px;
+    background-color: rgb(70, 201, 253);
+    top: 490px;
+    left: -30px;
+}
+.box9{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    position: relative;
+    height: 40px;
+    width: 125px;
+    background-color: rgb(70, 201, 253);
+    top: 490px;
+    left: -20px;
+}
+.font1{
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 10px;
+}
+.font2{
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 10px;
+}
+.font3{
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 10px;
+}
+.font4{
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 10px;
+}
+.font5{
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 25px;
+}
+.font6{
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 20px;
+}
+.font7{
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 10px;
+}
+.font8{
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 10px;
+}
+.font9{
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 25px;
+}
+.part7{
+}
+.img3{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 270px;
+    left: 600px;
+}
+.font10{
+   position: relative;
+   top: 225px;
+   left: 640px;
+   font-size: larger;
+}
+.conn{
+    position: relative;
+    top: 230px;
+    left: 210px;
+    font-size: larger;
+}
+.design1{
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    background-color: rgb(52, 171, 218);
+    position: relative;
+    top: 245px;
+    left: 250px;
+}
+.design2{
+    border: 1px solid black;
+    height: 65px;
+    width: 1px;
+    background-color: black;
+    position: relative;
+    top: 245px;
+    left: 254px;
+}
+.design3{
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    background-color: rgb(52, 171, 218);
+    position: relative;
+    top: 245px;
+    left: 250px;
+}
+.design4{
+    border: 1px solid black;
+    height: 65px;
+    width: 1px;
+    background-color: black;
+    position: relative;
+    top: 245px;
+    left: 254px;
+}
+.design5{
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    background-color: rgb(52, 171, 218);
+    position: relative;
+    top: 245px;
+    left: 250px;
+}
+.content1{
+    position: relative;
+    top: 220px;
+    left: 100px;
+}
+.img4{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 270px;
+    left: 600px;
+}
+.font11{
+   position: relative;
+   top: 225px;
+   left: 640px;
+   font-size: larger;
+}
+.conn1{
+    position: relative;
+    top: 230px;
+    left: 210px;
+    font-size: larger;
+}
+.content2{
+    position: relative;
+    top: 230px;
+    left: 280px;
+}
+.box10{
+    border-radius: 10px;
+    position: relative;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(70, 201, 253);
+    top: 245px;
+    left: 390px;
+}
+.box11{
+    border-radius: 10px;
+    position: relative;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(70, 201, 253);
+    top: 290px;
+    left: 390px;
+}
+.box12{
+    border-radius: 10px;
+    position: relative;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(70, 201, 253);
+    top: 330px;
+    left: 390px;
+}
+.design6{
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    background-color: rgb(52, 171, 218);
+    position: relative;
+    top: 245px;
+    left: 430px;
+}
+.design7{
+    border: 1px solid black;
+    height: 65px;
+    width: 1px;
+    background-color: black;
+    position: relative;
+    top: 245px;
+    left: 434px;
+}
+.design8{
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    background-color: rgb(52, 171, 218);
+    position: relative;
+    top: 245px;
+    left: 430px;
+}
+.design9{
+    border: 1px solid black;
+    height: 65px;
+    width: 1px;
+    background-color: black;
+    position: relative;
+    top: 245px;
+    left: 434px;
+}
+.design10{
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    background-color: rgb(52, 171, 218);
+    position: relative;
+    top: 245px;
+    left: 430px;
+}
+.alpha{
+    position: absolute;
+    top: -10px;
+    left: 30px;
+    color: white;
+}
+.img5{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 270px;
+    left: 600px;
+}
+.font12{
+   position: relative;
+   top: 225px;
+   left: 640px;
+   font-size: larger;
+}
+.conn2{
+    position: relative;
+    top: 230px;
+    left: 210px;
+    font-size: larger;
+}
+.content3{
+    position: relative;
+    top: 200px;
+    left: 100px;
+}
+.design11{
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    background-color: rgb(52, 171, 218);
+    position: relative;
+    top: 245px;
+    left: 250px;
+}
+.design12{
+    border: 1px solid black;
+    height: 65px;
+    width: 1px;
+    background-color: black;
+    position: relative;
+    top: 245px;
+    left: 254px;
+}
+.design13{
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    background-color: rgb(52, 171, 218);
+    position: relative;
+    top: 245px;
+    left: 250px;
+}
+.design14{
+    border: 1px solid black;
+    height: 65px;
+    width: 1px;
+    background-color: black;
+    position: relative;
+    top: 245px;
+    left: 254px;
+}
+.design15{
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    background-color: rgb(52, 171, 218);
+    position: relative;
+    top: 245px;
+    left: 250px;
+}
+.colour{
+    color: skyblue;
+}
+
